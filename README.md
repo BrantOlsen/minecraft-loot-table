@@ -1,5 +1,5 @@
 # minecraft-loot-table
-Custom Minecraft loot tables to make the game easier but not too much easier.
+Custom Minecraft loot tables to make the game easier but not too much easier. Mainly for playing with younger kids.
 
 ## Install
 - Create a new world in Minecraft then save and exit.
