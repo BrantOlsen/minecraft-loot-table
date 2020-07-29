@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:block",
+    "pools": [
+        {
+            "rolls": {
+		"min": 1,
+                "max": 2
+		},
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 5,
+                    "name": "minecraft:cobblestone"
+		},
+		{
+		    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:torch"
+                }
+            ]
+        }
+    ]
+}

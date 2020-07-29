@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:block",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:golden_apple"
+		},
+		{
+		    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:apple"
+                },
+		{
+		    "type": "item",
+                    "weight": 2,
+                    "name": "minecraft:birch_sapling"
+                },
+		{
+		    "type": "item",
+                    "weight": 8,
+                    "name": "minecraft:stick"
+                }
+            ]
+        }
+    ]
+}

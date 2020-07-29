@@ -1,0 +1,29 @@
+{
+	"type": "minecraft:entity",
+    "pools": [
+        {
+            "rolls": {
+                "min": 2,
+                "max": 5
+            },
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:diamond"
+                },
+		{
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:lapis_lazuli"
+                },
+		{
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:restone"
+                }
+
+            ]
+        }
+    ]
+}
